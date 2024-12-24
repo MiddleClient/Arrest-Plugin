@@ -1,0 +1,12 @@
+name: Arrest_Plugin
+main: org.example.arrest_plugin.arrest_plugin.Arrest_Plugin
+version: 1.0
+api-version: 1.21
+commands:
+  stick:
+    description: Получить волшебную палочку.
+    permission: arrest_plugin.use
+permissions:
+  arrest_plugin.use:
+    description: Позволяет использовать команду /stick и арестовывать игроков.
+    default: op
