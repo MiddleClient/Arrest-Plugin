@@ -6,7 +6,7 @@
 
   <groupId>org.example.Arrest_Plugin</groupId>
   <artifactId>arrest_plugin</artifactId>
-  <version>1.0</version>
+  <version>1.2</version>
   <packaging>jar</packaging>
 
   <name>arrest_plugin</name>
